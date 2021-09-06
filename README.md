@@ -2,7 +2,7 @@
 Scripts for nagios
 
 PBX.sh
-This screp need to add PBX on Nagios monitoring
+This script need to add PBX on Nagios monitoring
 Monitorng : Ping
 
 
